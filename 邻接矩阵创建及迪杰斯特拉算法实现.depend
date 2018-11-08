@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539849907 source:f:\c progrem\telecommunication software\邻接矩阵及迪杰斯特拉\邻接矩阵创建及迪杰斯特拉算法实现\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540667468 source:f:\c progrem\telecommunication software\迪杰斯特拉\邻接矩阵创建及迪杰斯特拉算法实现\main.c
+	<stdio.h>
+	<stdlib.h>
+
